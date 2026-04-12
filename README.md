@@ -1,5 +1,5 @@
 <h1 align="center">
-    Prolog Course [2025]
+    Prolog Subject [2025]
 </h1>
 
 <p align="center">
@@ -35,17 +35,17 @@ This is a repository where I store all lessons that I take on the programming pa
 
 ## Related
 
--   [Repository of C course - 2022](https://github.com/hozlucas28/C-Course-2022)
--   [Repository of C course - 2023](https://github.com/hozlucas28/C-Course-2023)
--   [Repository of C course - 2024](https://github.com/hozlucas28/C-Course-2024)
--   [Repository of C++ course - 2022](https://github.com/hozlucas28/C--Course-2022)
--   [Repository of Haskell course - 2025](https://github.com/hozlucas28/Haskell-Course-2025)
--   [Repository of C algorithms course - 2025](https://github.com/hozlucas28/C-Algorithms-Course-2025)
+-   [Repository of C subject - 2022](https://github.com/hozlucas28/C-Subject-2022)
+-   [Repository of C subject - 2023](https://github.com/hozlucas28/C-Subject-2023)
+-   [Repository of C subject - 2024](https://github.com/hozlucas28/C-Subject-2024)
+-   [Repository of C++ subject - 2022](https://github.com/hozlucas28/C--Subject-2022)
+-   [Repository of Haskell subject - 2025](https://github.com/hozlucas28/Haskell-Subject-2025)
+-   [Repository of C algorithms subject - 2025](https://github.com/hozlucas28/C-Algorithms-Subject-2025)
 -   [Repository of C practical work - 2024](https://github.com/hozlucas28/C-Practical-Work-2024)
 -   [Repository of Java practical work - 2025](https://github.com/hozlucas28/Java-Practical-Work-2025)
--   [Repository of SQL Server - I course](https://github.com/hozlucas28/SQL-Server-Course-I-2023)
--   [Repository of SQL Server - II course](https://github.com/hozlucas28/SQL-Server-Course-II-2023)
--   [Repository of MongoDB - NoSQL course](https://github.com/hozlucas28/MongoDB-Course-2023)
+-   [Repository of SQL Server - I subject](https://github.com/hozlucas28/SQL-Server-Subject-I-2023)
+-   [Repository of SQL Server - II subject](https://github.com/hozlucas28/SQL-Server-Subject-II-2023)
+-   [Repository of MongoDB - NoSQL subject](https://github.com/hozlucas28/MongoDB-Subject-2023)
 
 ## License
 
