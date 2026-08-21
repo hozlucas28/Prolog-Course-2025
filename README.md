@@ -1,5 +1,5 @@
 <h1 align="center">
-    Prolog Subject [2025]
+    Prolog Course [2025]
 </h1>
 
 <p align="center">
@@ -35,17 +35,22 @@ This is a repository where I store all lessons that I take on the programming pa
 
 ## Related
 
--   [Repository of C subject - 2022](https://github.com/hozlucas28/C-Subject-2022)
--   [Repository of C subject - 2023](https://github.com/hozlucas28/C-Subject-2023)
--   [Repository of C subject - 2024](https://github.com/hozlucas28/C-Subject-2024)
--   [Repository of C++ subject - 2022](https://github.com/hozlucas28/C--Subject-2022)
--   [Repository of Haskell subject - 2025](https://github.com/hozlucas28/Haskell-Subject-2025)
--   [Repository of C algorithms subject - 2025](https://github.com/hozlucas28/C-Algorithms-Subject-2025)
--   [Repository of C practical work - 2024](https://github.com/hozlucas28/C-Practical-Work-2024)
--   [Repository of Java practical work - 2025](https://github.com/hozlucas28/Java-Practical-Work-2025)
--   [Repository of SQL Server - I subject](https://github.com/hozlucas28/SQL-Server-Subject-I-2023)
--   [Repository of SQL Server - II subject](https://github.com/hozlucas28/SQL-Server-Subject-II-2023)
--   [Repository of MongoDB - NoSQL subject](https://github.com/hozlucas28/MongoDB-Subject-2023)
+- [Repository of the Advanced Programming Practical Work - 2026](https://github.com/hozlucas28/Advanced-Programming-Practical-Work-2026)
+- [Repository of the Advanced Programming Course - 2026](https://github.com/hozlucas28/Advanced-Programming-Course-2026)
+- [Repository of the Concurrent Programming Course - 2026](https://github.com/hozlucas28/Concurrent-Programming-Course-2026)
+- [Repository of the SOA Practical Work - 2026](https://github.com/hozlucas28/SOA-Practical-Work-2026)
+- [Repository of the APL Practical Work - 2025](https://github.com/hozlucas28/APL-Practical-Work-2025)
+- [Repository of the Java Practical Work - 2025](https://github.com/hozlucas28/Java-Practical-Work-2025)
+- [Repository of the Haskell Course - 2025](https://github.com/hozlucas28/Haskell-Course-2025)
+- [Repository of the C Algorithms Course - 2025](https://github.com/hozlucas28/C-Algorithms-Course-2025)
+- [Repository of the C Practical Work - 2024](https://github.com/hozlucas28/C-Practical-Work-2024)
+- [Repository of the C Course - 2024](https://github.com/hozlucas28/C-Course-2024)
+- [Repository of the C Course - 2023](https://github.com/hozlucas28/C-Course-2023)
+- [Repository of the MongoDB Course - 2023](https://github.com/hozlucas28/MongoDB-Course-2023)
+- [Repository of the SQL Server Course II - 2023](https://github.com/hozlucas28/SQL-Server-Course-II-2023)
+- [Repository of the SQL Server Course I - 2023](https://github.com/hozlucas28/SQL-Server-Course-I-2023)
+- [Repository of the C++ Course - 2022](https://github.com/hozlucas28/C--Course-2022)
+- [Repository of the C Course - 2022](https://github.com/hozlucas28/C-Course-2022)
 
 ## License
 
